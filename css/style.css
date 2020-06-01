@@ -1,0 +1,9 @@
+.bg-success, .bg-danger {
+  padding: 10px;
+}
+
+.pager li a.active_link, .pager li a:hover {
+  background: #337ab7;
+  color: #fff;
+  border: 1px solid #337ab7;
+}
